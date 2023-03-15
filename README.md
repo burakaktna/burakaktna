@@ -36,11 +36,11 @@ I am a software enthusiast with over five years of experience in the field. I ha
   
 <h2 align="center"> 📊 GitHub Stats </h2>
 
-[![Burakaktna's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakaktna)](https://github.com/burakaktna/github-readme-stats)
+![Burakaktna's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakaktna)
 
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
 
 <h2 align="center"> 📝 Recent Blog Posts </h2>
 Check out my latest blog posts on:
