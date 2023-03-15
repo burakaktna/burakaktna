@@ -1,4 +1,6 @@
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h1 align="center">Hi there, I'm Burak Aktuna! 👋</h1>
+
+<h2 align="center">👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>Software Developer @Enuygun</samp>
 </p>
@@ -16,43 +18,49 @@
 <p align="center">
 I am a software enthusiast with over five years of experience in the field. I have a passion for technologies such as Docker, PHP, and Laravel, and I have expertise in object-oriented programming, T-SQL, and design patterns. In the past few years, I have had the opportunity to work at companies, where I played significant roles. Overall, I am excited to continue learning and exploring the world of software development.
 </p>
-<h2 align="center"> 🚀 Skills </h2>
+<h2 align="center">🚀 Skills</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="75" height="55" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt "PHP"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt "Laravel"/>
-  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt "Symfony"/>
-  <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-ar21.svg" alt="couchbase"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="Elastic" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg" alt="Logstash" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" />
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" />
-</p>
-  
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<p align="center">
-  <img alig src="https://github-readme-stats.vercel.app/api?username=burakaktna" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="Couchbase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40" />
 </p>
 
-<h2 align="center"> 🏆 GitHub Trophies </h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=burakaktna&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakaktna&layout=compact&langs_count=8" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=burakaktna&show_icons=true" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakaktna" />
 </p>
 
-<h2 align="left"> 📝 Recent Blog Posts </h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=burakaktna&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+<h2 align="left">📝 Recent Blog Posts</h2>
 Check out my latest blog posts on:
 
 - [Medium](https://burakaktna.medium.com/)
 
-<h2 align="left"> 🤝 Social Media </h2>
+<h2 align="left">🤝 Social Media</h2>
 Connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/burakaktna/)
