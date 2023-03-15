@@ -29,8 +29,8 @@ I am a software enthusiast with over five years of experience in the field. I ha
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="Elastic" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" />
   <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg" alt="Logstash" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" />
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" />
 </p>
   
