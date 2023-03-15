@@ -13,10 +13,11 @@
     <img src="https://img.shields.io/twitter/follow/burakaktna?logo=twitter&style=for-the-badge" alt="burakaktna" />
   </a>
 </p>
+<p align="center">
 I am a software enthusiast with over five years of experience in the field. I have a passion for technologies such as Docker, PHP, and Laravel, and I have expertise in object-oriented programming, T-SQL, and design patterns. In the past few years, I have had the opportunity to work at companies, where I played significant roles. Overall, I am excited to continue learning and exploring the world of software development.
-
+</p>
 <h2 align="center"> 🚀 Skills </h2>
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="75" height="55" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
@@ -36,18 +37,22 @@ I am a software enthusiast with over five years of experience in the field. I ha
   
 <h2 align="center"> 📊 GitHub Stats </h2>
 
-![Burakaktna's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakaktna)
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api?username=burakaktna" />
+</p>
 
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=burakaktna&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
-<h2 align="center"> 📝 Recent Blog Posts </h2>
+<h2 align="left"> 📝 Recent Blog Posts </h2>
 Check out my latest blog posts on:
 
 - [Medium](https://burakaktna.medium.com/)
 
-<h2 align="center"> 🤝 Social Media </h2>
+<h2 align="left"> 🤝 Social Media </h2>
 Connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/burakaktna/)
