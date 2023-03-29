@@ -40,19 +40,19 @@ I am a software enthusiast with over five years of experience in the field. I ha
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakaktna&layout=compact&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakaktna&layout=compact&langs_count=8&theme=react" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=burakaktna&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=burakaktna&show_icons=true&theme=react" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakaktna" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakaktna&theme=react" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=burakaktna&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=burakaktna&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=algolia" />
 </p>
 
 <h2 align="left">📝 Recent Blog Posts</h2>
