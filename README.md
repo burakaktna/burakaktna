@@ -2,7 +2,7 @@
 
 <h2 align="center">👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>Software Developer @Enuygun</samp>
+  <samp>Software Developer</samp>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/burakaktna/" target="blank">
